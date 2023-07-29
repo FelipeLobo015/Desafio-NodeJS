@@ -1,5 +1,5 @@
 <p align = "center" >
-  <h1 align="center">NLW-Heat 🧑‍💻 </h1>
+  <h1 align="center">Desafio BHUT 🧑‍💻 </h1>
 </p>
 
 <p align="center">
