@@ -17,7 +17,7 @@ Prisma
 SQLite
 
 ## 🧑‍💻Project
-Esse projeto foi feito em um desafio para concorrer a uma vaga Node.js Backend Developer.
+This project was made in a challenge to compete for a vacancy Node.js Backend Developer.
 
 ## 🏃How to Run back
 Make a fork;
